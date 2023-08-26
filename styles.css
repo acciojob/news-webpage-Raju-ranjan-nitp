@@ -13,16 +13,12 @@
 }
 
         .pictorial-news-section {
-            background-color: white;
+/*             background-color: white;
             padding: 20px;
             width: 70%;
-            margin: 20px auto;
+            margin: 20px auto; */
             text-align: center;
-            border-radius: 10px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+/*             border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
         } 
 
-/*         .pictorial-news-section img {
-            max-width: 100%;
-            border-radius: 5px;
-        } */
